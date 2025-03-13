@@ -255,7 +255,7 @@ const projects = [
 
     ],
     image: quicksoru,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/suryagsmjk/Food-Delivery",
   },
   {
     name: "Job IT",
