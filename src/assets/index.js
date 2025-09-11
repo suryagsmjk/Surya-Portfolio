@@ -27,6 +27,7 @@ import tailwind from "./tech/tailwind.png";
 import Xylonic from "./company/xylonic.png";
 import pinke from "./company/pinke.png";
 import jspider from "./company/jspider.png";
+import wlt from "./company/Wlt.png"
 
 import quicksoru from "./quicksoru.png";
 import jobit from "./jobit.png";
@@ -60,6 +61,7 @@ export {
   Xylonic,
   pinke,
   jspider,
+  wlt,
 
   quicksoru,
   jobit,

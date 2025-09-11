@@ -29,7 +29,7 @@ const Navbar = () => {
             </li>
           ))}
           <li>
-            <a href="../../public/SURYA G.pdf" download="SURYA.pdf">
+            <a href="../../public/SURYA_G.pdf" download="SURYA_G.pdf">
               <button className=" text-white px-2 py-1 rounded-lg">
                 Download CV
               </button>
@@ -56,7 +56,7 @@ const Navbar = () => {
                 </li>
               ))}
               <li>
-                <a href="/assets/CV.pdf" download="Surya_CV.pdf">
+                <a href="/assets/Surya_G.pdf" download="Surya_G.pdf">
                   <button className=" text-white">
                     Download CV
                   </button>
